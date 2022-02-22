@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "finally Akash is going to U.S. without Pallavi because Dishu is with Akash" >> tmp/Akash
+echo "finally Akash is going to U.S. witH DISHU. " >> tmp/Akash
 printf "visa is necessary because he is immigrant"
 ls tmp/Akash
 echo ".........."
