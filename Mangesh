@@ -2,8 +2,8 @@
 echo "finally Akash is going to U.S." >> tmp/Akash
 printf "visa is necessary because he is immigrant"
 ls tmp/Akash
-eho ".........."
+echo ".........."
 cat tmp/Akash
-echo "Thank you"
+echo "Thank you..see you soon"
 
 
