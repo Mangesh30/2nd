@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "finally Akash is going to U.S." >> tmp/Akash
+printf "visa is necessary because he is immigrant"
+ls tmp/Akash
+eho ".........."
+cat tmp/Akash
+
+
