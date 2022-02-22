@@ -4,5 +4,6 @@ printf "visa is necessary because he is immigrant"
 ls tmp/Akash
 eho ".........."
 cat tmp/Akash
+echo "Thank you"
 
 
